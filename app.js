@@ -7,7 +7,7 @@ var cache = new Map();
 
 function initVirusMap() {
   document.getElementById("title").innerHTML +=
-    "（最后更新于 " + LAST_UPDATE + "）";
+    "(" + LAST_UPDATE + ")";
 
   map = new AMap.Map("container", {
     zoom: window.screen.width <= 600 ? 3 : 4,
