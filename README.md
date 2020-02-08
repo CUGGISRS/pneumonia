@@ -7,7 +7,7 @@
 点击地图可以显示每个城市的具体病例确认数。
 
 ### 方式一（推荐）：直接网页访问
-本项目已经部署在 Github Pages 上了。可以直接访问 [这里](https://lispczz.github.io/pneumonia/)。每五分钟自动更新。
+本项目已经部署在 Github Pages 上了。可以直接访问 [这里](https://cuggisrs.github.io/pneumonia/)。每五分钟自动更新。
 
 ### 方式二：自己手动生成 
 
