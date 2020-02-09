@@ -1,12 +1,12 @@
-const LAST_UPDATE = "2020.02.09-11:45:06";
+const LAST_UPDATE = "2020.02.09-12:02:39";
 const DATA = {
   "110000": {
-    "confirmedCount": 315,
+    "confirmedCount": 326,
     "cityName": "北京市",
     "color": "#A00000"
   },
   "120000": {
-    "confirmedCount": 88,
+    "confirmedCount": 90,
     "cityName": "天津市",
     "color": "#E70000"
   },
@@ -566,9 +566,9 @@ const DATA = {
     "color": "#FFDFDF"
   },
   "350100": {
-    "confirmedCount": 59,
+    "confirmedCount": 62,
     "cityName": "福州市",
-    "color": "#FF3F3F"
+    "color": "#FF1F1F"
   },
   "350200": {
     "confirmedCount": 25,
@@ -581,14 +581,14 @@ const DATA = {
     "color": "#FF5F5F"
   },
   "350400": {
-    "confirmedCount": 12,
+    "confirmedCount": 13,
     "cityName": "三明市",
     "color": "#FFBFBF"
   },
   "350500": {
-    "confirmedCount": 40,
+    "confirmedCount": 42,
     "cityName": "泉州市",
-    "color": "#FF7F7F"
+    "color": "#FF5F5F"
   },
   "350600": {
     "confirmedCount": 16,
@@ -596,17 +596,17 @@ const DATA = {
     "color": "#FFBFBF"
   },
   "350700": {
-    "confirmedCount": 14,
+    "confirmedCount": 16,
     "cityName": "南平市",
     "color": "#FFBFBF"
   },
   "350800": {
-    "confirmedCount": 5,
+    "confirmedCount": 6,
     "cityName": "龙岩市",
     "color": "#FFDFDF"
   },
   "350900": {
-    "confirmedCount": 21,
+    "confirmedCount": 23,
     "cityName": "宁德市",
     "color": "#FF9F9F"
   },
